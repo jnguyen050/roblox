@@ -1,4 +1,4 @@
-# hello-word
+# And now, a message from Frank.
 
 SKIADDLE
 SKIDOODLE
